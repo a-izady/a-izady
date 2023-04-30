@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alireza Izady
-- 👀 I’m Computer and microcontroller programer
-- 🌱 I’m currently working in truck weighing scale industry
-- 💞️ I’m looking to collaborate on any project 
+- 👀 I’m an electronic engineer and computer programmer
+- 🌱 I am a freelancer that currently works in the weighing scale industry
+- 💞️ it will be my pleasure if I could help with your project
 - 📫 How to reach me (https://www.towzinnegar.ir/) (https://www.instagram.com/towzinnegar) (telegram ID:@a_izady)
 - linkedin : www.linkedin.com/in/alireza-izady
 
